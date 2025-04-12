@@ -19,7 +19,7 @@ A retrieval-augmented generation (RAG) pipeline using:
 
 ➡️ [See project README](./Command-R/README.md)
 
-### 2. `openai-gpt-embedding-search` *(coming soon)*
+### 2. `openai-gpt-embedding-search`
 An example project using:
 - OpenAI's `text-embedding-ada-002`
 - LangChain
