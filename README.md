@@ -31,3 +31,8 @@ An example project using:
 - [OpenAI](https://openai.com/)
 - [Chroma](https://www.trychroma.com/)
 - FAISS (optional, for OpenAI example)
+
+
+## 📘 Türkçe Açıklama
+Bu depo, büyük dil modelleri (LLM’ler), vektör veritabanları ve embedding işlemleriyle çalışma yöntemlerini içeren çeşitli kod örneklerini barındırır.
+LangChain, Cohere, OpenAI ve Chroma gibi araçlarla yapılmış örnek uygulamalar, öğrenme sürecim ve kişisel deneyimlerimle oluşturulmuştur.
