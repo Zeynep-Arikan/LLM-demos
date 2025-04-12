@@ -15,13 +15,16 @@ A retrieval-augmented generation (RAG) pipeline using:
 - `embed-english-v2.0` embedding model
 - Chroma vector store
 
-➡️ [See project README](./cohere-command-r-example/README.md)
+➡️ [See project README](./Command-R/README.md)
 
 ### 2. `openai-gpt-embedding-search` *(coming soon)*
 An example project using:
 - OpenAI's `text-embedding-ada-002`
 - LangChain
 - FAISS for vector similarity search
+
+➡️ [See project README](.FAISS/README.md)
+
 
 
 ## 🛠️ Technologies Used
