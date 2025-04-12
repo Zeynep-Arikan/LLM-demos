@@ -29,5 +29,5 @@ Langchainjs supports using Faiss as a vectorstore that can be saved to file. It 
 
 
 ## 🔗 REFERENCES
-https://js.langchain.com/v0.1/docs/integrations/vectorstores/faiss
-https://platform.openai.com/docs/guides/embeddings
+- https://js.langchain.com/v0.1/docs/integrations/vectorstores/faiss
+- https://platform.openai.com/docs/guides/embeddings
