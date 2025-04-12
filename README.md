@@ -30,7 +30,7 @@ An example project using:
 - [Cohere](https://cohere.com/)
 - [OpenAI](https://openai.com/)
 - [Chroma](https://www.trychroma.com/)
-- FAISS (optional, for OpenAI example)
+- [FAISS](https://js.langchain.com/v0.1/docs/integrations/vectorstores/faiss)
 
 
 ## 📘 Türkçe Açıklama
